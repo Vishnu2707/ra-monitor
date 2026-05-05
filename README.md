@@ -1,6 +1,6 @@
 # RAMonitor
 
-**Continuous, objective Rheumatoid Arthritis monitoring using Apple Watch gait biomarkers, AI food analysis, and daily symptom tracking — built for patients, validated for clinicians.**
+**Continuous, objective Rheumatoid Arthritis monitoring using Apple Watch gait biomarkers, AI food analysis, and daily symptom tracking built for patients, validated for clinicians.**
 
 ---
 
@@ -11,7 +11,7 @@ Rheumatoid Arthritis affects 18 million people globally. In the UK alone, it cos
 Yet the clinical workflow has not changed in decades:
 
 - A rheumatologist sees a patient for 15 minutes every 3–4 months
-- Treatment decisions — including whether to prescribe biologics costing £10,000–£20,000 per patient per year — are made on verbal recall
+- Treatment decisions, including whether to prescribe biologics costing £10,000–£20,000 per patient per year — are made on verbal recall
 - There is no objective data from the 120 days between appointments
 - Drug response is assessed months after a dose change, not weeks
 
